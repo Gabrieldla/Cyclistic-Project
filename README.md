@@ -1,5 +1,4 @@
-# Cyclistic-Project
-Google data analytics Caso de estudio: Cyclistic
+
 Resumen
 Contexto: Cyclistic, empresa de bicicletas compartidas, necesita aumentar la conversión de usuarios ocasionales a membresías anuales para maximizar ingresos recurrentes.
 
